@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @writtenright
-- 👀 I’m interested in App Dev.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 0547898663 or send an email via writtenrightohene@gmail.com
+I’m @writtenright, interested in App Dev.
+I’m currently learning about Cloud networking.
+I’m looking to collaborate on projects that help solve real-world problems.
+📫 How to reach me  0547898663 or send an email via writtenrightohene@gmail.com
 
 <!---
-writtenright/writtenright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Don't tell anybody, but I love to code!
 --->
